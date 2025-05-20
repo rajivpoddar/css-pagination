@@ -3,7 +3,7 @@ body {
     padding: 0;
     min-height: 100vh;
     background-image: linear-gradient(to right, #000 1px, transparent 1px);
-    background-size: min(calc(100% - 21px), 821px) 10px; //821px 10px;
+    background-size: min(calc(100% - 21px), 821px) 10px; 
     background-position: top 10px left 10px;
 }
 .container {
